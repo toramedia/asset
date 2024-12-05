@@ -23,7 +23,7 @@ header.pageHeader .valign {
 }
 
 header.header .logo {
-     background:url(/web/20151001172637im_/http://www.iceviral.com/assets/images/logo_static.png) no-repeat;
+     background:url(http://www.iceviral.com/assets/images/logo_static.png) no-repeat;
      z-index:1;
      width:150px;
      height:224px;
@@ -178,7 +178,7 @@ nav.sub ul li {
 
 .burger {
      float: left;
-     background-image: url('/web/20151001172637im_/http://www.iceviral.com/assets/images/burger.png');
+     background-image: url('https://asset-28j.pages.dev/burger.png');
      background-size: 40px 40px;
      background-position: left;
      background-repeat: no-repeat;
@@ -223,7 +223,7 @@ ul.teamMembers li .image {
       height: 300px;
       width: 400px;
       opacity: 0;
-      background: url(/web/20151001172637im_/http://www.iceviral.com/assets/images/quize-walrus-thoughts.png) no-repeat;
+      background: url(https://asset-28j.pages.dev/quize-walrus-thoughts.png) no-repeat;
      background-size: 230px;
       -webkit-transition: all 0.4s ease-in-out;
      -moz-transition: all 0.4s ease-in-out;

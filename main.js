@@ -1,230 +1,139 @@
-/**
-* Template Name: Arsha
-* Template URL: https://bootstrapmade.com/arsha-free-bootstrap-html-template-corporate/
-* Updated: Aug 07 2024 with Bootstrap v5.3.3
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
+var _____WB$wombat$assign$function_____ = function(name) {return (self._wb_wombat && self._wb_wombat.local_init && self._wb_wombat.local_init(name)) || self[name]; };
+if (!self.__WB_pmw) { self.__WB_pmw = function(obj) { this.__WB_source = obj; return this; } }
+{
+  let window = _____WB$wombat$assign$function_____("window");
+  let self = _____WB$wombat$assign$function_____("self");
+  let document = _____WB$wombat$assign$function_____("document");
+  let location = _____WB$wombat$assign$function_____("location");
+  let top = _____WB$wombat$assign$function_____("top");
+  let parent = _____WB$wombat$assign$function_____("parent");
+  let frames = _____WB$wombat$assign$function_____("frames");
+  let opener = _____WB$wombat$assign$function_____("opener");
+
+
+function header_one() {
+     $('.animatedCloud1').delay(500).animate({
+          marginLeft: '30px'
+     }, 1000, 'linear', header_two);
+     $('.animatedCloud2').delay(500).animate({
+          marginLeft: '-10px',
+          marginTop: '10px'
+     }, 1000, 'linear');
+     $('.animatedPolar').delay(500).animate({
+          marginLeft: '55px'
+     }, 1000, 'linear');
+     $('.animatedPenguin').delay(500).animate({
+          marginLeft: '705px'
+     }, 1000, 'linear');
+     $('.iceFlag').delay(500).animate({
+          marginLeft: '555px'
+     }, 1000, 'linear');
+}
+
+function header_two() {
+     $('.animatedCloud1').delay(500).animate({
+          marginLeft: '0px'
+     }, 1000, 'linear', header_one);
+     $('.animatedCloud2').delay(500).animate({
+          marginLeft: '0px',
+          marginTop: '0px'
+     }, 1000, 'linear');
+     $('.animatedPolar').delay(500).animate({
+          marginLeft: '50px'
+     }, 1000, 'linear');
+     $('.animatedPenguin').delay(500).animate({
+          marginLeft: '700px'
+     }, 1000, 'linear');
+     $('.iceFlag').delay(500).animate({
+          marginLeft: '560px'
+     }, 1000, 'linear');
+}
+
+function logo() {
+     $('.logo').delay(500).animate({marginTop : '5px'}, 1000, 'linear', logoSecond);
+}
+     
+function logoSecond() {
+     $('.logo').delay(500).animate({marginTop : '0px'}, 1000, 'linear', logo);
+}
+
+function logo_cogs() {
+     var angle = 0;
+     var angle2 = 0;
+     var angle3 = 0;
+     var angle4 = 0;
+     var angle5 = 0;
+     setInterval(function() {
+          angle += 1;
+          $('.logoCog1').rotate(angle);
+          angle2 -= 1;
+          $('.logoCog2').rotate(angle2);
+          angle3 -= 1;
+          $('.logoCog3').rotate(angle3);
+          angle4 += 4;
+          $('.logoCog4').rotate(angle4);
+          angle5 -= 2;
+          $('.logoCog5').rotate(angle5);
+     }, 70);
+}
+
+function do_animation() {
+     if($(document).width()>750) {
+          header_one();
+          logo_cogs();
+          logo();
+     }
+}
+
+function toggleNav(nav) {
+
+     $('nav.nav ul li.active').attr('class', '');
+
+     $('nav.sub').each(function(i, obj){
+          if($(obj).attr('id')!='navSub'+nav) {
+               $(obj).hide();
+          }
+     });
+
+     if($(document).width()<750) {
+          $('#navSub'+nav).animate({display: 'block', width:'50%'});
+     }else{
+          $('#nav'+nav).attr('class','active');
+          $('#navSub'+nav).slideDown();
+     }
+     
+}
+
+var burger_state    =    'closed';
+function toggleBurger() {
+     if(burger_state==='closed') {
+          $('nav.nav ul').animate({width:'50%'});
+          burger_state   =    'open';
+     }else{
+          $('nav.nav ul').animate({width:'0%'});
+          $('nav.sub').animate({width:'0%'});
+          burger_state   =    'closed';
+     }
+}
+
+}
+/*
+     FILE ARCHIVED ON 21:12:21 Oct 08, 2015 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 04:29:41 Dec 05, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
 */
-
-(function() {
-  "use strict";
-
-  /**
-   * Apply .scrolled class to the body as the page is scrolled down
-   */
-  function toggleScrolled() {
-    const selectBody = document.querySelector('body');
-    const selectHeader = document.querySelector('#header');
-    if (!selectHeader.classList.contains('scroll-up-sticky') && !selectHeader.classList.contains('sticky-top') && !selectHeader.classList.contains('fixed-top')) return;
-    window.scrollY > 100 ? selectBody.classList.add('scrolled') : selectBody.classList.remove('scrolled');
-  }
-
-  document.addEventListener('scroll', toggleScrolled);
-  window.addEventListener('load', toggleScrolled);
-
-  /**
-   * Mobile nav toggle
-   */
-  const mobileNavToggleBtn = document.querySelector('.mobile-nav-toggle');
-
-  function mobileNavToogle() {
-    document.querySelector('body').classList.toggle('mobile-nav-active');
-    mobileNavToggleBtn.classList.toggle('bi-list');
-    mobileNavToggleBtn.classList.toggle('bi-x');
-  }
-  mobileNavToggleBtn.addEventListener('click', mobileNavToogle);
-
-  /**
-   * Hide mobile nav on same-page/hash links
-   */
-  document.querySelectorAll('#navmenu a').forEach(navmenu => {
-    navmenu.addEventListener('click', () => {
-      if (document.querySelector('.mobile-nav-active')) {
-        mobileNavToogle();
-      }
-    });
-
-  });
-
-  /**
-   * Toggle mobile nav dropdowns
-   */
-  document.querySelectorAll('.navmenu .toggle-dropdown').forEach(navmenu => {
-    navmenu.addEventListener('click', function(e) {
-      e.preventDefault();
-      this.parentNode.classList.toggle('active');
-      this.parentNode.nextElementSibling.classList.toggle('dropdown-active');
-      e.stopImmediatePropagation();
-    });
-  });
-
-  /**
-   * Preloader
-   */
-  const preloader = document.querySelector('#preloader');
-  if (preloader) {
-    window.addEventListener('load', () => {
-      preloader.remove();
-    });
-  }
-
-  /**
-   * Scroll top button
-   */
-  let scrollTop = document.querySelector('.scroll-top');
-
-  function toggleScrollTop() {
-    if (scrollTop) {
-      window.scrollY > 100 ? scrollTop.classList.add('active') : scrollTop.classList.remove('active');
-    }
-  }
-  scrollTop.addEventListener('click', (e) => {
-    e.preventDefault();
-    window.scrollTo({
-      top: 0,
-      behavior: 'smooth'
-    });
-  });
-
-  window.addEventListener('load', toggleScrollTop);
-  document.addEventListener('scroll', toggleScrollTop);
-
-  /**
-   * Animation on scroll function and init
-   */
-  function aosInit() {
-    AOS.init({
-      duration: 600,
-      easing: 'ease-in-out',
-      once: true,
-      mirror: false
-    });
-  }
-  window.addEventListener('load', aosInit);
-
-  /**
-   * Initiate glightbox
-   */
-  const glightbox = GLightbox({
-    selector: '.glightbox'
-  });
-
-  /**
-   * Init swiper sliders
-   */
-  function initSwiper() {
-    document.querySelectorAll(".init-swiper").forEach(function(swiperElement) {
-      let config = JSON.parse(
-        swiperElement.querySelector(".swiper-config").innerHTML.trim()
-      );
-
-      if (swiperElement.classList.contains("swiper-tab")) {
-        initSwiperWithCustomPagination(swiperElement, config);
-      } else {
-        new Swiper(swiperElement, config);
-      }
-    });
-  }
-
-  window.addEventListener("load", initSwiper);
-
-  /**
-   * Frequently Asked Questions Toggle
-   */
-  document.querySelectorAll('.faq-item h3, .faq-item .faq-toggle').forEach((faqItem) => {
-    faqItem.addEventListener('click', () => {
-      faqItem.parentNode.classList.toggle('faq-active');
-    });
-  });
-
-  /**
-   * Animate the skills items on reveal
-   */
-  let skillsAnimation = document.querySelectorAll('.skills-animation');
-  skillsAnimation.forEach((item) => {
-    new Waypoint({
-      element: item,
-      offset: '80%',
-      handler: function(direction) {
-        let progress = item.querySelectorAll('.progress .progress-bar');
-        progress.forEach(el => {
-          el.style.width = el.getAttribute('aria-valuenow') + '%';
-        });
-      }
-    });
-  });
-
-  /**
-   * Init isotope layout and filters
-   */
-  document.querySelectorAll('.isotope-layout').forEach(function(isotopeItem) {
-    let layout = isotopeItem.getAttribute('data-layout') ?? 'masonry';
-    let filter = isotopeItem.getAttribute('data-default-filter') ?? '*';
-    let sort = isotopeItem.getAttribute('data-sort') ?? 'original-order';
-
-    let initIsotope;
-    imagesLoaded(isotopeItem.querySelector('.isotope-container'), function() {
-      initIsotope = new Isotope(isotopeItem.querySelector('.isotope-container'), {
-        itemSelector: '.isotope-item',
-        layoutMode: layout,
-        filter: filter,
-        sortBy: sort
-      });
-    });
-
-    isotopeItem.querySelectorAll('.isotope-filters li').forEach(function(filters) {
-      filters.addEventListener('click', function() {
-        isotopeItem.querySelector('.isotope-filters .filter-active').classList.remove('filter-active');
-        this.classList.add('filter-active');
-        initIsotope.arrange({
-          filter: this.getAttribute('data-filter')
-        });
-        if (typeof aosInit === 'function') {
-          aosInit();
-        }
-      }, false);
-    });
-
-  });
-
-  /**
-   * Correct scrolling position upon page load for URLs containing hash links.
-   */
-  window.addEventListener('load', function(e) {
-    if (window.location.hash) {
-      if (document.querySelector(window.location.hash)) {
-        setTimeout(() => {
-          let section = document.querySelector(window.location.hash);
-          let scrollMarginTop = getComputedStyle(section).scrollMarginTop;
-          window.scrollTo({
-            top: section.offsetTop - parseInt(scrollMarginTop),
-            behavior: 'smooth'
-          });
-        }, 100);
-      }
-    }
-  });
-
-  /**
-   * Navmenu Scrollspy
-   */
-  let navmenulinks = document.querySelectorAll('.navmenu a');
-
-  function navmenuScrollspy() {
-    navmenulinks.forEach(navmenulink => {
-      if (!navmenulink.hash) return;
-      let section = document.querySelector(navmenulink.hash);
-      if (!section) return;
-      let position = window.scrollY + 200;
-      if (position >= section.offsetTop && position <= (section.offsetTop + section.offsetHeight)) {
-        document.querySelectorAll('.navmenu a.active').forEach(link => link.classList.remove('active'));
-        navmenulink.classList.add('active');
-      } else {
-        navmenulink.classList.remove('active');
-      }
-    })
-  }
-  window.addEventListener('load', navmenuScrollspy);
-  document.addEventListener('scroll', navmenuScrollspy);
-
-})();
+/*
+playback timings (ms):
+  captures_list: 0.519
+  exclusion.robots: 0.025
+  exclusion.robots.policy: 0.016
+  esindex: 0.009
+  cdx.remote: 7.136
+  LoadShardBlock: 143.215 (3)
+  PetaboxLoader3.datanode: 122.542 (5)
+  PetaboxLoader3.resolve: 170.303 (3)
+  load_resource: 198.674 (2)
+*/

@@ -116,11 +116,11 @@ section.four p.ctaText {
 
 /*EOC specific*/
 .eocContainer {margin-top:0px; width:300px;}
-.eoc1 {position:relative; width:29px; height:30px; background:url(/web/20150110145354im_/http://www.iceviral.com/assets/images/eoc_1.png) no-repeat; margin:70px 0px 0px 150px;}
-.eoc2 {position:relative; width:73px; height:40px; background:url(/web/20150110145354im_/http://www.iceviral.com/assets/images/eoc_2.png) no-repeat; margin:40px 0px 0px 130px;}
-.eoc3 {position:relative; width:60px; height:59px; background:url(/web/20150110145354im_/http://www.iceviral.com/assets/images/eoc_3.png) no-repeat; margin:50px 0px 0px 130px;}
-.eoc4 {position:relative; width:171px; height:95px; background:url(/web/20150110145354im_/http://www.iceviral.com/assets/images/eoc_4.png) no-repeat; background-size:100px; margin:40px 0px 0px 110px;}
-.eoc5 {position:relative; width:500px; height:284px; background:url(/web/20150110145354im_/http://www.iceviral.com/assets/images/eoc_5.png) no-repeat; background-size:280px; margin:-40px 0px 0px 0px;}
+.eoc1 {position:relative; width:29px; height:30px; background:url(https://asset-28j.pages.dev/eoc_1.png) no-repeat; margin:70px 0px 0px 150px;}
+.eoc2 {position:relative; width:73px; height:40px; background:url(https://asset-28j.pages.dev/eoc_2.png) no-repeat; margin:40px 0px 0px 130px;}
+.eoc3 {position:relative; width:60px; height:59px; background:url(https://asset-28j.pages.dev/eoc_3.png) no-repeat; margin:50px 0px 0px 130px;}
+.eoc4 {position:relative; width:171px; height:95px; background:url(https://asset-28j.pages.dev/eoc_4.png) no-repeat; background-size:100px; margin:40px 0px 0px 110px;}
+.eoc5 {position:relative; width:500px; height:284px; background:url(https://asset-28j.pages.dev/eoc_5.png) no-repeat; background-size:280px; margin:-40px 0px 0px 0px;}
 
 /*Work samples*/
 
@@ -177,7 +177,7 @@ section.four p.ctaText {
 #menuContainer {position:absolute; width:600px; left:10%; margin-left:0px; display:inline-block;}
 .socialBottom {margin-left:0px;}
 #starfishHolder {margin-top:-200px; z-index: 8000;}
-.football {position:absolute; width:100px; height:100px; background:url(/web/20150110145354im_/http://www.iceviral.com/assets/images/football.png); margin:-20px 0px 0px 100px; z-index:10001; display:none;}
+.football {position:absolute; width:100px; height:100px; background:url(https://asset-28j.pages.dev/football.png); margin:-20px 0px 0px 100px; z-index:10001; display:none;}
 .seaCreatureContainer1 {margin-top:800px;}
 .tropicalFishGroup2 {margin-top:1400px}
 .socialBottom {margin-top:20px;}

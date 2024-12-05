@@ -301,7 +301,7 @@ table.spaced td:nth-child(odd) {
 /*   Page Header    */
 
 header.pageHeader {
-     background: url('/web/20150110124743im_/http://www.iceviral.com/assets/images/page_header.png');
+     background: url('https://asset-28j.pages.dev/page_header.png');
      background-position: right center;
      background-size: cover;
      height: 500px;
@@ -348,7 +348,7 @@ header.pageHeader .valign {
 /*   Main header    */
 
 header.header {
-     background: url('/web/20150110124743im_/http://www.iceviral.com/assets/images/mountains_home.png');
+     background: url('https://asset-28j.pages.dev/mountains_home.png');
      height: 370px;
      border-bottom: 5px solid #0b8cb1;
      position: relative;
@@ -367,7 +367,7 @@ header.header .ice {
 header.header nav.menu {
      margin: 0;
      padding: 0;
-     background: url('/web/20150110124743im_/http://www.iceviral.com/assets/images/header_menu.png') no-repeat;
+     background: url('https://asset-28j.pages.dev/header_menu.png') no-repeat;
      color: #fff;
      height: 71px;
      width: 110px;
@@ -397,7 +397,7 @@ header.header nav.menu ul.menu {
      list-style-type: none;
      margin: 0;
      padding: 0;
-     background: url('/web/20150110124743im_/http://www.iceviral.com/assets/images/header_menu_drop.png');
+     background: url('https://asset-28j.pages.dev/header_menu_drop.png');
      display: none;
      width: 106px;
      height: 198px;
@@ -440,7 +440,7 @@ header.header .logo {
      top: 225px;
      left: 50%;
      margin-left: -155px;
-     background: url('/web/20150110124743im_/http://www.iceviral.com/assets/images/logo.png');
+     background: url('https://asset-28j.pages.dev/logo.png');
      width: 310px;
      height: 427px;
      z-index: 1;
@@ -456,7 +456,7 @@ header.header .logo .logoCogs .logoCog1 {
      position:absolute;
      width:72px;
      height:72px;
-     background:url('/web/20150110124743im_/http://www.iceviral.com/assets/images/logo_cog_1.png');
+     background:url('https://asset-28j.pages.dev/logo_cog_1.png');
      background-repeat:none;
      margin: 135px 0px 0px 30px;
      -webkit-backface-visibility: hidden;
@@ -467,7 +467,7 @@ header.header .logoCogs .logoCog2 {
      position:absolute;
      width:97px;
      height:97px;
-     background:url('/web/20150110124743im_/http://www.iceviral.com/assets/images/logo_cog_2.png');
+     background:url('https://asset-28j.pages.dev/logo_cog_2.png');
      background-repeat:none;
      margin:130px 0px 0px 100px;
      -webkit-backface-visibility: hidden;
@@ -478,7 +478,7 @@ header.header .logoCogs .logoCog3 {
      position:absolute;
      width:43px;
      height:43px;
-     background:url('/web/20150110124743im_/http://www.iceviral.com/assets/images/logo_cog_3.png');
+     background:url('https://asset-28j.pages.dev/logo_cog_3.png');
      background-repeat: none;
      margin:205px 0px 0px 60px;
      -webkit-backface-visibility: hidden;
@@ -489,7 +489,7 @@ header.header .logoCogs .logoCog4 {
      position:absolute;
      width:23px;
      height:23px;
-     background:url('/web/20150110124743im_/http://www.iceviral.com/assets/images/logo_cog_4.png');
+     background:url('https://asset-28j.pages.dev/logo_cog_4.png');
      background-repeat:none;
      margin:250px 0px 0px 70px;
      -webkit-backface-visibility: hidden;
@@ -500,7 +500,7 @@ header.header .logoCogs .logoCog5 {
      position:absolute;
      width:69px;
      height:69px;
-     background:url('/web/20150110124743im_/http://www.iceviral.com/assets/images/logo_cog_5.png');
+     background:url('https://asset-28j.pages.dev/logo_cog_5.png');
      background-repeat:none;
      margin:230px 0px 0px 95px;
      -webkit-backface-visibility: hidden;
@@ -676,7 +676,7 @@ footer.footer ul.footerLinks li {
      margin: 236px 0px 0px 700px;
 }
 
-.animatedCloud {position:absolute; width:258px; height:91px; background:url('/web/20150110124743im_/http://www.iceviral.com/assets/images/header_cloud.png'); background-repeat:no-repeat;}
+.animatedCloud {position:absolute; width:258px; height:91px; background:url('https://asset-28j.pages.dev/header_cloud.png'); background-repeat:no-repeat;}
 .animatedCloud1 {left: 200px;top: 50px;}
 .animatedCloud2 {left: 300px; top: 70px;}
 
@@ -709,9 +709,9 @@ ul.socialBar li.icon:hover {
      opacity: 0.8;
 }
 
-ul.socialBar li.icon.facebook-bg { background-image: url(/web/20150110124743im_/http://www.iceviral.com/assets/images/social_facebook_top.png); }
-ul.socialBar li.icon.twitter-bg {  background:url(/web/20150110124743im_/http://www.iceviral.com/assets/images/social_twitter_top.png); }
-ul.socialBar li.icon.gplus-bg { background:url(/web/20150110124743im_/http://www.iceviral.com/assets/images/social_gplus_top.png); }
+ul.socialBar li.icon.facebook-bg { background-image: url(https://asset-28j.pages.dev/social_facebook_top.png); }
+ul.socialBar li.icon.twitter-bg {  background:url(https://asset-28j.pages.dev/social_twitter_top.png); }
+ul.socialBar li.icon.gplus-bg { background:url(https://asset-28j.pages.dev/social_gplus_top.png); }
 
 div.social {
      position: fixed;
@@ -742,7 +742,7 @@ div.social .shareButton {
 
 /*   Extra     */
 
-.diver2 {background:url(/web/20150110124743im_/http://www.iceviral.com/assets/images/diver_2.png); position:absolute; z-index:0; margin-top:400px; display: none;}
+.diver2 {background:url(https://asset-28j.pages.dev/diver_2.png); position:absolute; z-index:0; margin-top:400px; display: none;}
 
 /*   Team Members   */
 
@@ -815,7 +815,7 @@ ul.teamMembers li ul.info li.infoTwitter::before {
      display: inline-block;
      width: 14px;
      height: 11px;
-     background-image: url('/web/20150110124743im_/http://www.iceviral.com/assets/images/Twitter_Logo16px.png');
+     background-image: url('https://asset-28j.pages.dev/Twitter_Logo16px.png');
      background-size: 14px 11px;
      background-position: center;
      background-repeat: no-repeat;
@@ -849,7 +849,7 @@ ul.teamMembers li ul.info li.infoTwitter::before {
       height: 300px;
       width: 400px;
       opacity: 0;
-      background: url(/web/20150110124743im_/http://www.iceviral.com/assets/images/quize-walrus-thoughts.png) no-repeat;
+      background: url(https://asset-28j.pages.dev/quize-walrus-thoughts.png) no-repeat;
      background-size: 300px;
       -webkit-transition: all 0.4s ease-in-out;
      -moz-transition: all 0.4s ease-in-out;

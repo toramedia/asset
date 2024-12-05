@@ -1,0 +1,326 @@
+/*   Bring content into a single column */
+
+.columns {display: block;}
+.columns .column {display: block; width: 100%; padding: 0;}
+
+header.pageHeader {
+     position: relative;
+     xtop: 52px;
+     height: 256px;
+     text-align: center;
+}
+
+header.pageHeader h1 {
+     font-size: 2em;
+}
+
+header.pageHeader p.strapline {
+     font-size: 1em;
+}
+
+header.pageHeader .valign {
+     height: 256px;
+}
+
+header.header .logo {
+     background:url(/web/20151001172637im_/http://www.iceviral.com/assets/images/logo_static.png) no-repeat;
+     z-index:1;
+     width:150px;
+     height:224px;
+     left:50%;
+     margin: -70px 0 0 -75px;
+}
+
+header.header .ice {
+     top: 52px;
+     height: 140px;
+     z-index: 2;
+}
+
+header.header .logo .logoCogs {
+     display: none;
+}
+
+/*   Hide extra assets   */
+
+.animatedFish, .animatedPolar, .animatedPenguin, .animatedCloud, .penguin2, .iceFlag, .ship {display: none;}
+
+.content {width: 100%; margin: 0 auto; font-size: 14px; padding:30px 0;}
+
+.content p {
+     
+}
+
+.content h1 {
+     width: 100%;
+}
+
+.socialBar {
+     display: none;
+}
+
+.is-bar {display:none;}
+
+/*   Content   */
+
+.emphasisedBlock {
+     height: auto !important;
+}
+
+.iceForm {
+     width: 100%;
+}
+
+/*   Nav       */
+
+.wrap {
+     width: 90%;
+}
+
+header.header {
+     height: 200px;
+     background-size: auto 200px;
+}
+
+header.header nav.menu {
+     top: 0px;
+     width: 100%;
+     background: #37ace1;
+     height: 80px;
+     z-index: 14121994;
+     position: relative;
+}
+
+header.header nav.menu strong {
+     line-height: 60px;
+}
+
+header.header nav.menu ul.menu {
+     margin: 0;
+     width: 50%;
+     background: #b42a45;
+}
+
+header.header nav.menu ul.menu li ul {
+     width: 100%;
+}
+
+header.header nav.menu ul.menu li ul li {
+     padding: 20px;
+}
+
+/*   Footer    */
+
+footer.footer {
+     text-align: center;
+}
+
+footer.footer ul.footerLinks li {
+     float: none;
+}
+
+/*   Re-build the navigation...    */
+
+nav.nav {
+     z-index: 5999;
+}
+
+nav.nav ul::-webkit-scrollbar { 
+    display: none; 
+}
+
+nav.nav ul {
+     position: fixed;
+     top: 60px;
+     left: 0px;
+     width: 0%;
+     height: 100%;
+     background: #fff;
+     overflow: hidden;
+     overflow-y: scroll;
+     border-right: 1px solid #ddd;
+     z-index: 5999;
+     color: #333
+}
+
+nav.nav ul li {
+     display: block;
+}
+
+nav.sub {
+     position: fixed;
+     top: 60px;
+     left: 0px !important;
+     width: 0%;
+     height: 100%;
+     display: block;
+     overflow: hidden;
+     left: auto;
+     z-index: 6000;
+     background: #fff;
+}
+
+nav.sub ul {
+     display: block;
+     width: 100%;
+     z-index: 6000;
+}
+
+nav.sub ul li {
+     display: block;
+     width: 100%;
+     text-align: left;
+     font-size: 1em !important;
+     height: auto;
+     line-height: 60px;
+     padding: 0px 16px;
+}
+
+.burger {
+     float: left;
+     background-image: url('/web/20151001172637im_/http://www.iceviral.com/assets/images/burger.png');
+     background-size: 40px 40px;
+     background-position: left;
+     background-repeat: no-repeat;
+     height: 60px;
+     width: 60px;
+     cursor: pointer;
+}
+
+.hLogo {
+     float: right;
+     height: 50px !important;
+     margin-top: 10px;
+}
+
+/*   Portfolio */
+
+.portfolioItem {
+     width: 100%;
+     background-size: 80% 100%;
+     background-position: center;
+     background-repeat: no-repeat;
+}
+
+/*   Meet The Team  */
+
+ul.teamMembers li.person {
+     text-align: center;
+     width: 100%;
+}
+
+ul.teamMembers li .image {
+     display: block;
+     margin: 0 auto;
+}
+/* quiz */
+.questions {
+      
+      position: absolute;
+      top: -220px;
+      left: -10px;
+      z-index: 20px;
+      height: 300px;
+      width: 400px;
+      opacity: 0;
+      background: url(/web/20151001172637im_/http://www.iceviral.com/assets/images/quize-walrus-thoughts.png) no-repeat;
+     background-size: 230px;
+      -webkit-transition: all 0.4s ease-in-out;
+     -moz-transition: all 0.4s ease-in-out;
+     -o-transition: all 0.4s ease-in-out;
+     -ms-transition: all 0.4s ease-in-out;
+     transition: all 0.4s ease-in-out;
+      
+ }
+
+/* data visualization */
+
+
+.credentials .content .image, .credentials .content .body {
+     width: 90%; margin: 0 auto; float: none 
+}
+
+.credentials .content .image img {
+     padding: 0; margin: 20px auto -1.5em
+}
+
+.credentials .content .body h3{ text-align: center; margin-bottom: 0 }
+
+.focusband .wrap.colthree span {
+     width: 217px;
+     float: none;
+     margin: 0 auto;
+     height: auto;
+     display: block;
+}
+
+.focusband .wrap.colthree span p {
+     font-size: 2em
+}
+
+.content.tail.prehistoric{
+     display: none
+}
+
+.content-pub span.right, .content-pub span.right img {
+     width: 100%
+}
+.content-pub .wrap span {margin: 0}
+
+.content-pub .channels ul li {
+     width: 100%
+}
+
+.penguinAnimate, .bearAnimate {
+     display: none
+}
+
+.brand-amp .cells ul li {
+     width: 33%!important; 
+     margin: 0 !important;
+}
+
+.g-type {
+     display: none
+}
+
+.game-block {
+     max-width: 100% !important;font-size: 2em !important;
+}
+
+.portfolio div.title {
+     font-size: 2em !important
+}
+
+.portfolio .content.project .wrap {
+     font-size: inherit !important
+}
+
+.portfolio li.ctaSmall, .portfolio .callToAction2 a, .portfolio .callToAction .ctaButton {
+     width: 90%; margin: 0 auto 10px;
+}
+
+.callToAction strong {
+     font-family: 'Lato'; font-weight: 300; font-size: inherit
+}
+
+/*
+     FILE ARCHIVED ON 17:26:37 Oct 01, 2015 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 04:27:44 Dec 05, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.504
+  exclusion.robots: 0.026
+  exclusion.robots.policy: 0.015
+  esindex: 0.011
+  cdx.remote: 6.301
+  LoadShardBlock: 101.789 (3)
+  PetaboxLoader3.datanode: 76.904 (5)
+  load_resource: 135.333 (2)
+  PetaboxLoader3.resolve: 60.876 (2)
+*/

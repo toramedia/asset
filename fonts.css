@@ -1,0 +1,72 @@
+@font-face {
+	font-family: 'sansitaone';
+		src: url('/web/20150110175318im_/http://www.iceviral.com/assets/fonts/sansitaone/sansitaone-webfont.eot');
+		src: url('/web/20150110175318im_/http://www.iceviral.com/assets/fonts/sansitaone/sansitaone-webfont.eot#iefix') format('embedded-opentype'),
+		url('/web/20150110175318im_/http://www.iceviral.com/assets/fonts/sansitaone/sansitaone-webfont.woff') format('woff'),
+		url('/web/20150110175318im_/http://www.iceviral.com/assets/fonts/sansitaone/sansitaone-webfont.ttf') format('truetype'),
+		url('/web/20150110175318im_/http://www.iceviral.com/assets/fonts/sansitaone/sansitaone-webfont.svg#sansita_oneregular') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'helsinki';
+		src: url('/web/20150110175318im_/http://www.iceviral.com/assets/fonts/helsinki/helsinki-webfont.eot');
+		src: url('/web/20150110175318im_/http://www.iceviral.com/assets/fonts/helsinki/helsinki-webfont.eot#iefix') format('embedded-opentype'),
+		url('/web/20150110175318im_/http://www.iceviral.com/assets/fonts/helsinki/helsinki-webfont.woff') format('woff'),
+		url('/web/20150110175318im_/http://www.iceviral.com/assets/fonts/helsinki/helsinki-webfont.ttf') format('truetype'),
+		url('/web/20150110175318im_/http://www.iceviral.com/assets/fonts/helsinki/helsinki-webfont.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+    font-family: 'brlnsr';
+    src: url('/web/20150110175318im_/http://www.iceviral.com/assets/fonts/brlnsr/brlnsr-webfont.eot');
+    src: url('/web/20150110175318im_/http://www.iceviral.com/assets/fonts/brlnsr/brlnsr-webfont.eot#iefix') format('embedded-opentype'),
+         url('/web/20150110175318im_/http://www.iceviral.com/assets/fonts/brlnsr/brlnsr-webfont.woff') format('woff'),
+         url('/web/20150110175318im_/http://www.iceviral.com/assets/fonts/brlnsr/brlnsr-webfont.ttf') format('truetype'),
+         url('/web/20150110175318im_/http://www.iceviral.com/assets/fonts/brlnsr/brlnsr-webfont.svg#berlin_sans_fbregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+	font-family: 'brlnsb';
+		src: url('/web/20150110175318im_/http://www.iceviral.com/assets/fonts/brlnsb/brlnsb.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+    font-family: 'lato-black';
+    src: url('/web/20150110175318im_/http://www.iceviral.com/assets/fonts/lato/lato-bla-webfont.eot');
+    src: url('/web/20150110175318im_/http://www.iceviral.com/assets/fonts/lato/lato-bla-webfont.eot#iefix') format('embedded-opentype'),
+         url('/web/20150110175318im_/http://www.iceviral.com/assets/fonts/lato/lato-bla-webfont.woff') format('woff'),
+         url('/web/20150110175318im_/http://www.iceviral.com/assets/fonts/lato/lato-bla-webfont.ttf') format('truetype'),
+         url('/web/20150110175318im_/http://www.iceviral.com/assets/fonts/lato/lato-bla-webfont.svg#latoblack') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+/*
+     FILE ARCHIVED ON 17:53:18 Jan 10, 2015 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 04:23:55 Dec 05, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 1.181
+  exclusion.robots: 0.078
+  exclusion.robots.policy: 0.058
+  esindex: 0.032
+  cdx.remote: 58.778
+  LoadShardBlock: 46.186 (3)
+  PetaboxLoader3.datanode: 60.54 (4)
+  load_resource: 73.826
+  PetaboxLoader3.resolve: 29.126
+*/

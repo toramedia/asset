@@ -1,0 +1,254 @@
+@media all and (max-width: 1024px) {
+
+
+     .diver, .diver2, .header-kick, .titles, .removemobile, .fishgroup, .pipestogo  {display: none !important}
+
+/*Core*/
+p {font-size:1em;}
+
+/*Section specific*/
+.section1 {height:auto;}
+.section1Text {width:95%;}
+.section2Text {width:95%;}
+.section3 .content {width:500px;}
+section.three .indexContent {left:50%; margin-left:-245px;}
+.indexContent {width:95%; position:inherit; margin:0px auto; left:auto;}
+.section1 .content .right {width:95%;}
+
+section.one {height:3300px;margin-top: 350px;}
+section.two {height:2400px;}
+section.three {height:3000px;}
+section.four {height:1600px;}
+section.five {height:580px;}
+.textRight {float:left;}
+section.one .sectionText {
+     margin-top:0px;
+}
+
+
+
+/******* added chris 31/07/14 *******/
+
+
+.octo {
+     
+     position: absolute;
+     top:1200px
+     
+}
+
+.bubble_spot.bobbing {display: none}
+
+section .sectionOneNew {
+     top: 1700px;
+     }
+#googleGraph{
+     top: 1900px;
+     width: 500px;
+}
+
+#certGraph{
+     top: 2100px;
+     width: 500px;
+}
+
+
+/******* end chris 31/07/14 *******/
+
+
+
+.section5Text {width:100%;}
+
+/*Display changes*/
+.social {display:none;}
+.submarine{display: none;}
+#scrollPrompt {display:none;}
+/*.sectionButtonsContainer {display:none;}*/
+.sectionButtonsContainer {margin-top:50% }
+.ship {display:none;}
+.fish1 {display:none;}
+.fish2 {display:none;}
+.fish3 {display:none;}
+.fish4 {display:none;}
+.fish5 {display:none;}
+.mobilePrompt {display:none;}
+.animatedFish, .animatedPenguin, .penguin2, .tropicalFish5, .tropicalFish6, .tropicalFish7, .tropicalFish8, .starfish2_2, .starfish2_4, .treasureChest, .confetti, .starfish1_2, .starfish1_3, .starfish2_3 {display: none;}
+#bubblesDesktop {margin-top:700px;}
+
+/*Sonar specific*/
+#sonar1 {display:none;}
+#sonar2 {display:none;}
+#sonar3 {display:none;}
+#sonar4 {display:none;}
+
+.sonarText1 {display:none;}
+.sonarTextContent1 {display:none;}
+.sonarText2 {display:none;}
+.sonarTextContent2 {display:none;}
+.sonarText3 {display:none;}
+.sonarTextContent3 {display:none;}
+.sonarText4 {display:none;}
+.sonarTextContent4 {display:none;}
+.sonarMobile {display:block;}
+section.four p {text-align:left;}
+
+/*CTA specific*/
+.ctaButton4 {float:left; margin:300px 20px 100px 300px; width:73px;}
+.section4 p.ctaText {font-family:'sansitaone'; font-size:1.5em; color:#FFFFFF; float:left; width:300px; margin:300px 0px 0px; line-height:30px;}
+
+.splashCta.ctaTwo, .splashCta.ctaThree, .splashCta.ctaFour {
+     width: 200px;
+     line-height: 40px;
+     z-index: 10000;
+}
+
+section.four p.ctaText {
+     text-align:center;
+}
+
+.splashCta {width:70%; line-height:40px;}
+.splashCta.ctaOne {position:absolute; width:200px; line-height:40px; margin:780px 0px 0px -100px; left:50%;}
+.splashCta.ctaOne.extend {margin:820px 0px 0px -100px}
+.splashCta.ctaTwo {width:200px; line-height:40px; margin-top:540px;}
+.splashCta.ctaTwo_2 {width:200px; line-height:40px; margin-top:200px;}
+.splashCta.ctaThree {margin-top:340px;}
+.ctaFour {margin: -330px 0px 0px 500px;}
+
+/*EOC specific*/
+.eocContainer {margin-top:0px; width:300px;}
+.eoc1 {position:relative; width:29px; height:30px; background:url(/web/20150110145354im_/http://www.iceviral.com/assets/images/eoc_1.png) no-repeat; margin:70px 0px 0px 150px;}
+.eoc2 {position:relative; width:73px; height:40px; background:url(/web/20150110145354im_/http://www.iceviral.com/assets/images/eoc_2.png) no-repeat; margin:40px 0px 0px 130px;}
+.eoc3 {position:relative; width:60px; height:59px; background:url(/web/20150110145354im_/http://www.iceviral.com/assets/images/eoc_3.png) no-repeat; margin:50px 0px 0px 130px;}
+.eoc4 {position:relative; width:171px; height:95px; background:url(/web/20150110145354im_/http://www.iceviral.com/assets/images/eoc_4.png) no-repeat; background-size:100px; margin:40px 0px 0px 110px;}
+.eoc5 {position:relative; width:500px; height:284px; background:url(/web/20150110145354im_/http://www.iceviral.com/assets/images/eoc_5.png) no-repeat; background-size:280px; margin:-40px 0px 0px 0px;}
+
+/*Work samples*/
+
+#work2 {margin: 1250px 0px 0px -50px;}
+#work3 {margin: 1150px 0px 0px -50px;}
+#work4 {margin:1500px 0px 0px -50px;}
+#work5 {margin:550px 0px 0px -100px;}
+#work6 {margin:950px 0px 0px -100px;}
+
+.pointingFishSmall {margin:200px 0px 0px -290px;}
+
+#pointingFishWorldCup {margin:140px 0px 0px -220px;}
+#pointingFishMattCutts {margin:1200px 0px 0px -200px;}
+#pointingFishPetitBateau {margin:1380px 0px 0px 140px;}
+#pointingFishHorseRacing {margin:1080px 0px 0px -140px;}
+#pointingFishChoice {margin:700px 0px 0px 100px;}
+
+#lightbox1 {margin-top:0px;}
+#lightbox2 {margin-top:1200px;}
+#lightbox3 {margin-top:1000px;}
+#lightbox4 {margin-top:1500px;}
+#lightbox5 {margin-top:500px;}
+#lightbox6 {margin-top:1000px;}
+
+.lightbox {
+     position:absolute; 
+     width:95%;     
+     left:50%;
+     z-index:40002; 
+     -webkit-transform:translate(-50%); /* Ch, Saf  */
+    -moz-transform: translate(-50%); /* Fx <16 */
+    -ms-transform: translate(-50%); /* IE 9 */
+    -o-transform: translate(-50%); /* Op <12.1 */
+     transform:translate(-50%);
+     display:none;
+}
+
+.lightbox img {
+     position:absolute;
+     padding:10px;
+     background:#141414;
+     width:95%;
+     left:50%;
+     z-index:40002; 
+     -webkit-transform:translate(-50%); /* Ch, Saf  */
+    -moz-transform: translate(-50%); /* Fx <16 */
+    -ms-transform: translate(-50%); /* IE 9 */
+    -o-transform: translate(-50%); /* Op <12.1 */
+     transform:translate(-50%);
+}
+
+/*Loose styles*/
+
+#menuContainer {position:absolute; width:600px; left:10%; margin-left:0px; display:inline-block;}
+.socialBottom {margin-left:0px;}
+#starfishHolder {margin-top:-200px; z-index: 8000;}
+.football {position:absolute; width:100px; height:100px; background:url(/web/20150110145354im_/http://www.iceviral.com/assets/images/football.png); margin:-20px 0px 0px 100px; z-index:10001; display:none;}
+.seaCreatureContainer1 {margin-top:800px;}
+.tropicalFishGroup2 {margin-top:1400px}
+.socialBottom {margin-top:20px;}
+.starfish1_3, .starfish1_4 {margin-left:120px;}
+
+.stingrays {
+    margin: 240px 0 0 -500px;
+}
+
+.textLeft, .textRight {padding-left: 10px;}
+
+.is-bar {display:none;}
+
+
+/******** PING PING ***********/
+
+
+.ping_us.worldcup {
+     margin-top:180px; 
+     margin-left:-15px;
+}
+
+.ping_us.horse {
+     margin-top:1640px; 
+     margin-left:60px;
+}
+
+.ping_us.celtic {
+     margin-top:1130px; 
+     margin-left:-37px;
+}
+
+
+.ping_us.panda {
+     margin-top:1440px; 
+     margin-left:20px;
+     
+}
+
+.ping_us.cutts {
+     margin-top:1200px; 
+     margin-left:10px;
+}
+
+
+
+/*}
+
+@media all and (max-width: 768px) {*/
+
+/*#work1, #work2, #work3, #work4, #work5, #work1URL, #work2URL, #work3URL, #work4URL, #work5URL, #work1CloseButton, #work2CloseButton, #work3CloseButton, #work4CloseButton, #work5CloseButton {display:none;}*/
+
+}
+
+/*
+     FILE ARCHIVED ON 14:53:54 Jan 10, 2015 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 04:30:56 Dec 05, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.511
+  exclusion.robots: 0.028
+  exclusion.robots.policy: 0.019
+  esindex: 0.01
+  cdx.remote: 15.525
+  LoadShardBlock: 57.187 (3)
+  PetaboxLoader3.datanode: 81.257 (4)
+  load_resource: 86.824
+  PetaboxLoader3.resolve: 52.672
+*/

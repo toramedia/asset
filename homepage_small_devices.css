@@ -1,0 +1,317 @@
+@media all and (max-width: 500px) {
+
+     .diver, .diver2, .header-kick, .titles, .removemobile, .fishgroup, .pipestogo  {display: none !important}
+     
+     .jellyfishContainer {width:100%; margin-left:auto;}
+     section.three .sectionText h2 {margin-top:10px;}
+     section.one {height:3000px; margin-top: 10px}
+     section.one .sectionText {margin-top:400px;}
+     section.three {height:2400px;}
+     section.five {height:840px;}
+     .whale {display:none;}
+     .splashCta.ctaOne {
+          margin-top: 600px;
+     }
+     .splashCta.ctaTwo_2 {margin-top:100px;}
+     .seaCreatureContainer1 {margin-top:200px;}
+     .tropicalFishGroup2 {margin:1000px 0px 0px -600px;}
+     .ship{display: none;}
+     
+     section.one {height:3500px;}
+     
+     .sectionButtonsContainer {display:none;}
+     
+     .ctaFour {margin: 140px 0px 0px 10px;}
+     
+     .contentPromptTextContainer {margin:140px 0px 0px -200px;}
+     .pointingFishSmall {margin:300px 0px 0px -120px;}
+     
+     /*Work samples*/
+
+     #work1 {margin: 0px 0px 0px -50px;}
+     #work2 {margin: 1250px 0px 0px -90px;}
+     #work3 {margin: 800px 0px 0px -50px;}
+     #work4 {margin:1450px 0px 0px -110px;}
+     #work5 {margin:580px 0px 0px -100px;}
+     
+     #pointingFishWorldCup {margin:140px 0px 0px -140px;}
+     #pointingFishMattCutts {margin:850px 0px 0px -200px;}
+     #pointingFishPetitBateau {margin:1380px 0px 0px 60px;}
+     #pointingFishHorseRacing {margin:1000px 0px 0px -200px;}
+     #pointingFishChoice {margin:730px 0px 0px 100px;}
+     
+     #lightbox1 {margin-top:50px;}
+     #lightbox2 {margin-top:1250px;}
+     #lightbox3 {margin-top:750px;}
+     #lightbox4 {margin-top:1350px;}
+     #lightbox5 {margin-top:600px;}
+     
+     .is-bar {display:none;}
+     
+     section .sectionOneNew {
+     width: 90%;
+     
+     }
+     
+     
+     .octo {
+          margin-top: -250px
+     }
+     
+     /******** PING PING ***********/
+
+
+.ping_us.worldcup {
+     margin-top:180px; 
+     margin-left:-15px;
+}
+
+.ping_us.horse {
+     margin-top:1580px; 
+     margin-left:10px;
+}
+
+.ping_us.celtic {
+     margin-top:1130px; 
+     margin-left:-35px;
+}
+
+
+.ping_us.panda {
+     margin-top:1440px; 
+     margin-left:0px;
+}
+
+.ping_us.panda {
+     margin-top:1440px; 
+     margin-left:0px;
+}
+
+.ping_us.cutts {
+     margin-top:850px; 
+     margin-left:10px;
+}
+
+
+/******* added chris 31/07/14 *******/
+
+section .sectionOneNew {
+     top: 1550px;
+     width: 90%;
+     margin-left: -45%
+     
+     }
+#googleGraph{
+     top: 2000px;
+     width: 90%;
+     margin-left: -45%
+}
+
+#certGraph{
+     top: 2100px;
+     width: 400px;
+     margin-left: -200px
+}
+
+
+.bubble_spot {
+     display: none;
+}
+
+
+.bubble_spot.sectionOne {
+      left: 10%; top: 3050px;
+}
+
+.bubble_spot.sectionOne .bubble_content p {
+padding: 72px 30px
+}
+
+.bubble_spot.sectionTwo {
+     right: 10%; top: 650px;
+}
+
+.bubble_spot.sectionTwo .bubble_content p {
+padding: 85px 30px
+}
+
+
+.bubble_spot.sectionPanda {
+     left: 10%; top: 2200px;
+}
+
+.bubble_spot.sectionPanda .bubble_content p {
+padding: 85px 30px
+}
+
+.bubble_spot.sectionThree {
+     left: 10%; top: 1850px;
+}
+
+.bubble_spot.sectionThree .bubble_content p {
+padding: 85px 30px
+}
+
+
+.bubble_spot.sectionThree_two {
+     right: 10%; top: 2250px;
+}
+
+.bubble_spot.sectionThree_two .bubble_content p {
+padding: 60px 30px
+}
+
+
+.bubble_spot.sectionFour {
+     left: 10%; top: 1200px;
+}
+
+.bubble_spot.sectionFive{
+     right: 10%; top: 2300px;
+}
+
+
+
+
+
+
+/******* end chris 31/07/14 *******/
+
+
+
+     
+}
+
+@media all and (max-width: 400px) {
+
+     section.one {height:3850px;}
+     section.two {padding-top:100px;}
+     section.five {height:940px;}
+     section.three .indexContent {left:50%; margin-left:-145px;}
+     
+     .splashCta.ctaOne {margin-top:500px;}
+     .splashCta.ctaOne.extend {margin-top:920px;}
+     
+     .splashCta.ctaTwo_2 {margin-left:-140px;}
+     .splashCta.ctaThree {margin-top:250px;}
+     
+     .seaCreatureContainer1 {margin-top:300px;}
+     .tropicalFishGroup2 {margin:1100px 0px 0px -600px;}
+     
+     .mobilePrompt {display:block;}
+     .fontText img {width:80px; padding-right:10px;}
+     .font {width:80px;}
+     .text {width:200px;}
+     .textRight {float:left;}
+     .splashCta, .splashCta.ctaTwo, .splashCta.ctaThree, .splashCta.ctaFour {
+          width:200px;
+          line-height:40px;
+     }
+     
+     #jellyfish2, #jellyfish3, .bubble1, .bubble2, .bubble3, .bubble4, .bubble5, .shark, .starfish1_1, .starfish1_2, .starfish1_3, .starfish1_4, .starfish2_2, .starfish2_3, .starfish2_4  {display:none;}
+     
+     .contentPromptTextContainer {margin:140px 0px 0px -140px;}
+     .pointingFishSmall {margin:300px 0px 0px -80px;}
+
+/*Work samples*/
+
+     #work1 {margin: 0px 0px 0px -50px;}
+     #work2 {margin: 1250px 0px 0px -140px;}
+     #work3 {margin: 800px 0px 0px -100px;}
+     #work4 {margin:1650px 0px 0px -120px;}
+     #work5 {margin:680px 0px 0px -140px;}
+     #work6 {margin:1080px 0px 0px -140px;}
+     
+     #pointingFishWorldCup {margin:140px 0px 0px -140px;}
+     #pointingFishMattCutts {margin:920px 0px 0px -140px;}
+     #pointingFishPetitBateau {margin:1380px 0px 0px 40px;}
+     #pointingFishHorseRacing {margin:1110px 0px 0px -140px;}
+     #pointingFishChoice {margin:780px 0px 0px 30px;}
+     
+     #lightbox1 {margin-top:0px;}
+     #lightbox2 {margin-top:1330px;}
+     #lightbox3 {margin-top:750px;}
+     #lightbox4 {margin-top:1690px;}
+     #lightbox5 {margin-top:770px;}
+     #lightbox6 {margin-top:1130px;}
+     
+     
+     /******** PING PING ***********/
+
+
+.ping_us.worldcup {
+     margin-top:180px; 
+     margin-left:-15px;
+}
+
+.ping_us.horse {
+     margin-top:1770px; 
+     margin-left:-30px;
+}
+
+.ping_us.celtic {
+     margin-top:1265px; 
+     margin-left:-78px;
+}
+
+
+.ping_us.panda {
+     margin-top:1440px; 
+     margin-left:-70px;
+}
+
+.ping_us.cutts {
+     margin-top:850px; 
+     margin-left:-30px;
+}
+
+
+
+/******* added chris 31/07/14 *******/
+
+section .sectionOneNew {
+     top: 1700px;
+     width: 90%;
+     margin-left: -45%
+     
+     }
+#googleGraph, #certGraph{
+     top: 2100px;
+     width: 90%;
+     margin-left: -45%
+}
+
+#googleGraph {
+     top: 2100px;
+}
+
+#certGraph {
+     top: 2700px;
+}
+
+/******* end chris 31/07/14 *******/
+
+
+     
+}
+
+/*
+     FILE ARCHIVED ON 18:06:02 Oct 01, 2015 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 04:31:17 Dec 05, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.463
+  exclusion.robots: 0.03
+  exclusion.robots.policy: 0.023
+  esindex: 0.008
+  cdx.remote: 7.916
+  LoadShardBlock: 111.743 (3)
+  PetaboxLoader3.datanode: 83.51 (4)
+  PetaboxLoader3.resolve: 162.621 (2)
+  load_resource: 181.206
+*/

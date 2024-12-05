@@ -177,7 +177,7 @@ body {
      body
      {
           background: #07a0ca;
-          background-image: url('/web/20151001173444im_/http://www.iceviral.com/assets/images/background1_textured.jpg');
+          background-image: url('https://asset-28j.pages.dev/background1_textured.jpg');
           background-attachment: fixed;
           overflow-x: hidden
      }
@@ -262,7 +262,7 @@ body {
           height: 40px;
           width:100%;
           height:21px;
-          background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/scrollDownArrow.png) center center no-repeat;
+          background:url(https://asset-28j.pages.dev/scrollDownArrow.png) center center no-repeat;
           margin:10px 0px 0px 0px;
           opacity:0.8;
      }
@@ -335,16 +335,16 @@ color:#FFF;
 }
 #elementContainer {position:relative; width:768px; left:50%; margin-left:-384px;}
 
-.penguin2 {position:absolute;  width:79px; height:76px; background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/penguin_swimming.png); background-repeat:none; margin:386px 0px 0px 0px; right:320px; z-index:1;}
+.penguin2 {position:absolute;  width:79px; height:76px; background:url(https://asset-28j.pages.dev/penguin_swimming.png); background-repeat:none; margin:386px 0px 0px 0px; right:320px; z-index:1;}
 
 .socialBottom {position:absolute; margin:0px 0px 0px 800px; z-index:9000; }
 
-.starfishFooter1 {position:absolute; width:50px; height:51px; background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/starfish1.png); margin:20px 0px 0px -600px;}
-.starfishFooter2 {position:absolute; width:50px; height:48px; background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/starfish2.png); margin:0px 0px 0px -500px;}
-.facebookBottom {width:88px; height:88px; background:#141414; float:left; background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/facebook_icon_bottom.png);}
-.twitterBottom {width:88px; height:88px; background:#141414; float:left; background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/twitter_icon_bottom.png); margin:20px 0px 0px 5px;}
-.googleplusBottom {width:88px; height:88px; background:#141414; float:left; background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/googleplus_icon_bottom.png); margin:10px 0px 0px 5px;}
-.ice_text {position:absolute; width:200px; height:193px; background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/ice_text.png); left:50%; margin-left:-100px; z-index:1003;}
+.starfishFooter1 {position:absolute; width:50px; height:51px; background:url(https://asset-28j.pages.dev/starfish1.png); margin:20px 0px 0px -600px;}
+.starfishFooter2 {position:absolute; width:50px; height:48px; background:url(https://asset-28j.pages.dev/starfish2.png); margin:0px 0px 0px -500px;}
+.facebookBottom {width:88px; height:88px; background:#141414; float:left; background:url(https://asset-28j.pages.dev/facebook_icon_bottom.png);}
+.twitterBottom {width:88px; height:88px; background:#141414; float:left; background:url(https://asset-28j.pages.dev/twitter_icon_bottom.png); margin:20px 0px 0px 5px;}
+.googleplusBottom {width:88px; height:88px; background:#141414; float:left; background:url(https://asset-28j.pages.dev/googleplus_icon_bottom.png); margin:10px 0px 0px 5px;}
+.ice_text {position:absolute; width:200px; height:193px; background:url(http://www.iceviral.com/assets/images/ice_text.png); left:50%; margin-left:-100px; z-index:1003;}
 #scrollPrompt {
 position:absolute;
 width:100%;
@@ -358,7 +358,7 @@ font-style:italic;
 position:absolute;
 width:40px;
 height:21px;
-background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/scrollDownArrow.png);
+background:url(https://asset-28j.pages.dev/scrollDownArrow.png);
 left:50%;
 margin:10px 0px 0px -20px;
 opacity:0.8;
@@ -372,7 +372,7 @@ margin:0px auto;
      font-family:'lato';
      font-size: 20px;
      /*padding-left: 80px;*/
-     background: url(/web/20151001173444im_/http://www.iceviral.com/assets/images/CTA_yellow.png);
+     background: url(https://asset-28j.pages.dev/CTA_yellow.png);
      background-repeat: no-repeat;
      height: 200px;
      line-height: 73px;
@@ -407,7 +407,7 @@ margin:0px auto;
 
 
 .splashCta.ctaTwo {
-     background: url(/web/20151001173444im_/http://www.iceviral.com/assets/images/CTA_yellow.png);
+     background: url(https://asset-28j.pages.dev/CTA_yellow.png);
      background-repeat: no-repeat;
      /*margin: 0 auto;*/
      width: 200px;
@@ -418,7 +418,7 @@ margin:0px auto;
 }
 
 .splashCta.ctaTwo_2 {
-     background: url(/web/20151001173444im_/http://www.iceviral.com/assets/images/CTA_yellow.png);
+     background: url(https://asset-28j.pages.dev/CTA_yellow.png);
      background-repeat: no-repeat;
      width: 200px;
      line-height: 30px;
@@ -428,7 +428,7 @@ margin:0px auto;
 }
 
 .splashCta.ctaThree {
-     background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/CTA_yellow.png);
+     background:url(https://asset-28j.pages.dev/CTA_yellow.png);
      background-repeat: no-repeat;
      /*margin: 0 auto;*/
      width: 200px;
@@ -439,7 +439,7 @@ margin:0px auto;
 }
 
 .ctaFour {
-/*   background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/CTA_pink.png); */
+/*   background:url(http://www.iceviral.com/assets/images/CTA_pink.png); */
      background-repeat: no-repeat;
      margin: -100px 0px 0px 500px;
      width: 200px;
@@ -450,55 +450,55 @@ margin:0px auto;
 }
 
 .eocContainer {position:relative; width:1000px; height:300px; margin:0px auto 0px; z-index:10000;}
-.eoc1 {position:absolute; width:29px; height:30px; background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/eoc_1.png) no-repeat; margin:70px 0px 0px 80px;}
-.eoc2 {position:absolute; width:73px; height:40px; background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/eoc_2.png) no-repeat; margin:40px 0px 0px 100px;}
-.eoc3 {position:absolute; width:60px; height:59px; background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/eoc_3.png) no-repeat; margin:50px 0px 0px 200px;}
-.eoc4 {position:absolute; width:171px; height:95px; background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/eoc_4.png) no-repeat; margin:40px 0px 0px 280px;}
-.eoc5 {position:absolute; width:500px; height:284px; background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/eoc_5.png) no-repeat; margin:-70px 0px 0px 460px;}
+.eoc1 {position:absolute; width:29px; height:30px; background:url(https://asset-28j.pages.dev/eoc_1.png) no-repeat; margin:70px 0px 0px 80px;}
+.eoc2 {position:absolute; width:73px; height:40px; background:url(https://asset-28j.pages.dev/eoc_2.png) no-repeat; margin:40px 0px 0px 100px;}
+.eoc3 {position:absolute; width:60px; height:59px; background:url(https://asset-28j.pages.dev/eoc_3.png) no-repeat; margin:50px 0px 0px 200px;}
+.eoc4 {position:absolute; width:171px; height:95px; background:url(https://asset-28j.pages.dev/eoc_4.png) no-repeat; margin:40px 0px 0px 280px;}
+.eoc5 {position:absolute; width:500px; height:284px; background:url(https://asset-28j.pages.dev/eoc_5.png) no-repeat; margin:-70px 0px 0px 460px;}
 
 .stingrays {position:absolute; width:1000px; left:50%; margin:140px 0px 0px -500px;}
-.stingray1 {position:absolute; width:200px; height:326px; background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/stingray_1.png); margin:200px 0px 0px 400px;}
-.stingray2 {position:absolute; width:100px; height:163px; background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/stingray_2.png); margin:300px 0px 0px 600px;}
-.stingray3 {position:absolute; width:140px; height:228px; background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/stingray_3.png); margin:400px 0px 0px 300px;}
+.stingray1 {position:absolute; width:200px; height:326px; background:url(https://asset-28j.pages.dev/stingray_1.png); margin:200px 0px 0px 400px;}
+.stingray2 {position:absolute; width:100px; height:163px; background:url(https://asset-28j.pages.dev/stingray_2.png); margin:300px 0px 0px 600px;}
+.stingray3 {position:absolute; width:140px; height:228px; background:url(https://asset-28j.pages.dev/stingray_3.png); margin:400px 0px 0px 300px;}
 
 .tropicalFish {position:absolute; width:1000px; left:50%; margin:140px 0px 0px -500px; z-index:10000;}
 .tropicalFishGroup2 {position:absolute; width:1000px; left:50%; margin-left:-500px; margin-top:1000px; z-index:10000;}
-.tropicalFish1 {position:absolute; width:100px; height:50px; background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/fish6.png); margin:500px 0px 0px 400px;}
-.tropicalFish2 {position:absolute; width:100px; height:50px; background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/fish6.png); margin:540px 0px 0px 600px;}
-.tropicalFish3 {position:absolute; width:100px; height:55px; background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/fish7.png); margin:700px 0px 0px 600px;}
-.tropicalFish4 {position:absolute; width:100px; height:93px; background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/fish8.png); margin:800px 0px 0px 200px;}
-.tropicalFish5 {position:absolute; width:100px; height:50px; background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/fish6.png); margin:800px 0px 0px 400px;}
-.tropicalFish6 {position:absolute; width:100px; height:50px; background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/fish6.png); margin:840px 0px 0px 600px;}
-.tropicalFish7 {position:absolute; width:100px; height:55px; background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/fish7.png); margin:1000px 0px 0px 600px;}
-.tropicalFish8 {position:absolute; width:100px; height:93px; background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/fish8.png); margin:1100px 0px 0px 200px;}
-.tropicalFish9 {position:absolute; width:100px; height:50px; background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/fish6.png); margin:500px 0px 0px 400px;}
-.tropicalFish10 {position:absolute; width:100px; height:50px; background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/fish6.png); margin:540px 0px 0px 600px;}
-.tropicalFish11 {position:absolute; width:100px; height:55px; background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/fish7.png); margin:700px 0px 0px 600px;}
-.tropicalFish12 {position:absolute; width:100px; height:93px; background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/fish8.png); margin:800px 0px 0px 200px;}
+.tropicalFish1 {position:absolute; width:100px; height:50px; background:url(https://asset-28j.pages.dev/fish6.png); margin:500px 0px 0px 400px;}
+.tropicalFish2 {position:absolute; width:100px; height:50px; background:url(https://asset-28j.pages.dev/fish6.png); margin:540px 0px 0px 600px;}
+.tropicalFish3 {position:absolute; width:100px; height:55px; background:url(https://asset-28j.pages.dev/fish7.png); margin:700px 0px 0px 600px;}
+.tropicalFish4 {position:absolute; width:100px; height:93px; background:url(https://asset-28j.pages.dev/fish8.png); margin:800px 0px 0px 200px;}
+.tropicalFish5 {position:absolute; width:100px; height:50px; background:url(https://asset-28j.pages.dev/fish6.png); margin:800px 0px 0px 400px;}
+.tropicalFish6 {position:absolute; width:100px; height:50px; background:url(https://asset-28j.pages.dev/fish6.png); margin:840px 0px 0px 600px;}
+.tropicalFish7 {position:absolute; width:100px; height:55px; background:url(https://asset-28j.pages.dev/fish7.png); margin:1000px 0px 0px 600px;}
+.tropicalFish8 {position:absolute; width:100px; height:93px; background:url(https://asset-28j.pages.dev/fish8.png); margin:1100px 0px 0px 200px;}
+.tropicalFish9 {position:absolute; width:100px; height:50px; background:url(https://asset-28j.pages.dev/fish6.png); margin:500px 0px 0px 400px;}
+.tropicalFish10 {position:absolute; width:100px; height:50px; background:url(https://asset-28j.pages.dev/fish6.png); margin:540px 0px 0px 600px;}
+.tropicalFish11 {position:absolute; width:100px; height:55px; background:url(https://asset-28j.pages.dev/fish7.png); margin:700px 0px 0px 600px;}
+.tropicalFish12 {position:absolute; width:100px; height:93px; background:url(https://asset-28j.pages.dev/fish8.png); margin:800px 0px 0px 200px;}
 
-.boat {position:absolute; width:186px; height:303px; background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/boat.png) no-repeat; left:50%; margin:40px 0px 0px -93px; z-index:1004;}
+.boat {position:absolute; width:186px; height:303px; background:url(https://asset-28j.pages.dev/boat.png) no-repeat; left:50%; margin:40px 0px 0px -93px; z-index:1004;}
 .bubbleContainer {position:absolute; width:1000px; left:50%; margin-left:-500px;}
-.bubble1 {position:absolute; width:40px; height:39px; background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/bubble1.png);}
-.bubble2 {position:absolute; width:40px; height:38px; background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/bubble2.png);}
-.bubble3 {position:absolute; width:87px; height:83px; background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/bubble3.png);}
-.bubble4 {position:absolute; width:60px; height:59px; background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/bubble4.png);}
-.bubble5 {position:absolute; width:40px; height:37px; background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/bubble5.png);}
-.fish1 {position:absolute; width:80px; height:47px; margin:340px 0px 0px 300px; background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/fish1.png); background-repeat:no-repeat;}
-.fish2 {position:absolute; width:80px; height:53px; margin:360px 0px 0px 40px; background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/fish2.png); background-repeat:no-repeat;}
-.fish3 {position:absolute; width:110px; height:91px; margin:400px 0px 0px 200px; background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/fish3.png); background-repeat:no-repeat;}
-.fish4 {position:absolute; width:100px; height:86px; margin:490px 0px 0px 120px; background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/fish4.png); background-repeat:no-repeat;}
-.fish5 {position:absolute; width:90px; height:50px; margin:580px 0px 0px 0px; background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/fish5.png); background-repeat:no-repeat;}
+.bubble1 {position:absolute; width:40px; height:39px; background:url(https://asset-28j.pages.dev/bubble1.png);}
+.bubble2 {position:absolute; width:40px; height:38px; background:url(https://asset-28j.pages.dev/bubble2.png);}
+.bubble3 {position:absolute; width:87px; height:83px; background:url(https://asset-28j.pages.dev/bubble3.png);}
+.bubble4 {position:absolute; width:60px; height:59px; background:url(https://asset-28j.pages.dev/bubble4.png);}
+.bubble5 {position:absolute; width:40px; height:37px; background:url(https://asset-28j.pages.dev/bubble5.png);}
+.fish1 {position:absolute; width:80px; height:47px; margin:340px 0px 0px 300px; background:url(https://asset-28j.pages.dev/fish1.png); background-repeat:no-repeat;}
+.fish2 {position:absolute; width:80px; height:53px; margin:360px 0px 0px 40px; background:url(https://asset-28j.pages.dev/fish2.png); background-repeat:no-repeat;}
+.fish3 {position:absolute; width:110px; height:91px; margin:400px 0px 0px 200px; background:url(https://asset-28j.pages.dev/fish3.png); background-repeat:no-repeat;}
+.fish4 {position:absolute; width:100px; height:86px; margin:490px 0px 0px 120px; background:url(https://asset-28j.pages.dev/fish4.png); background-repeat:no-repeat;}
+.fish5 {position:absolute; width:90px; height:50px; margin:580px 0px 0px 0px; background:url(https://asset-28j.pages.dev/fish5.png); background-repeat:no-repeat;}
 .jellyfishContainer {position:absolute; width:1000px; height:500px; left:50%; margin:100px 0px 0px -500px; z-index:10000;}
-.jellyfish {position:absolute; width:154px; height:344px; background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/jellyfish.png);}
+.jellyfish {position:absolute; width:154px; height:344px; background:url(https://asset-28j.pages.dev/jellyfish.png);}
 #jellyfish2 {margin:80px 0px 0px 800px;}
 #jellyfish3 {margin:0px 0px 0px 420px;}
 #jellyfish4 {margin:200px;}
 
-.whale {position:absolute; width:922px; height:245px; background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/whale.png); margin:1200px 0px 0px 100px;}
-.whaleEyelid {position:absolute; width:68px; height:42px; background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/whale_eyelid.png); margin:29px 0px 0px 190px;}
-.whaleEye {position:absolute; width:12px; height:12px; background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/whale_eye.png); margin:69px 0px 0px 203px;}
+.whale {position:absolute; width:922px; height:245px; background:url(https://asset-28j.pages.dev/whale.png); margin:1200px 0px 0px 100px;}
+.whaleEyelid {position:absolute; width:68px; height:42px; background:url(https://asset-28j.pages.dev/whale_eyelid.png); margin:29px 0px 0px 190px;}
+.whaleEye {position:absolute; width:12px; height:12px; background:url(https://asset-28j.pages.dev/whale_eye.png); margin:69px 0px 0px 203px;}
 
-.seahorse {position:absolute; width:43px; height:120px; background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/seahorse.png);}
+.seahorse {position:absolute; width:43px; height:120px; background:url(https://asset-28j.pages.dev/seahorse.png);}
 .seahorse1 {margin:1450px 0px 0px 400px;}
 .seahorse2 {margin:1200px 0px 0px 0px;}
 .seahorse3 {margin:1100px 0px 0px 600px;}
@@ -513,8 +513,8 @@ margin:0px auto;
 }
 
 #starfishHolder {position:relative; width:1000px; left:50%; margin-left:-500px; z-index:10000;}
-.starfish1 {position:absolute; width:50px; height:51px; background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/starfish1.png);}
-.starfish2 {position:absolute; width:50px; height:48px; background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/starfish2.png);}
+.starfish1 {position:absolute; width:50px; height:51px; background:url(https://asset-28j.pages.dev/starfish1.png);}
+.starfish2 {position:absolute; width:50px; height:48px; background:url(https://asset-28j.pages.dev/starfish2.png);}
 .starfish1_1 {margin:600px 0px 0px 800px;}
 .starfish1_2 {margin:100px 0px 0px 800px;}
 .starfish1_3 {margin:100px 0px 0px 100px;}
@@ -523,8 +523,8 @@ margin:0px auto;
 .starfish2_2 {margin:700px 0px 0px 400px;}
 .starfish2_3 {margin:80px 0px 0px 300px;}
 .starfish2_4 {margin:730px 0px 0px 200px;}
-.anchor {position:fixed; width:100px; height:751px; background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/anchor_with_rope.png); left:50%; margin:-260px 0px 0px -50px; opacity:0.1; z-index:0;}
-.diver {-webkit-backface-visibility: hidden; -webkit-transform: translateZ(0); position:fixed; left:50%; width:65px; height:616px; background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/diver.png) no-repeat; background-size:30px 284px; display:none; margin:-610px 0px 0px -270px; opacity:1; z-index:3001;}
+.anchor {position:fixed; width:100px; height:751px; background:url(https://asset-28j.pages.dev/anchor_with_rope.png); left:50%; margin:-260px 0px 0px -50px; opacity:0.1; z-index:0;}
+.diver {-webkit-backface-visibility: hidden; -webkit-transform: translateZ(0); position:fixed; left:50%; width:65px; height:616px; background:url(https://asset-28j.pages.dev/diver.png) no-repeat; background-size:30px 284px; display:none; margin:-610px 0px 0px -270px; opacity:1; z-index:3001;}
 .anchorCover {position:absolute; width:100%; height:300px; background:#6ab1e5; z-index:1000;}
 .fontText {position: relative; width:490px; height:90%; float:left; z-index:10000;}
 .fontText p {font-size:1.2em; font-weight:normal; line-height:30px;}
@@ -533,35 +533,35 @@ margin:0px auto;
 .text {width:300px;}
 .textLeft {float:left;padding-left: 25px;}
 .textRight {float:right;}
-.sonar {position:absolute; width:800px; height:800px; background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/sonar.png); background-repeat:no-repeat; left:50%; margin:20px 0px 20px -400px; }
+.sonar {position:absolute; width:800px; height:800px; background:url(https://asset-28j.pages.dev/sonar.png); background-repeat:no-repeat; left:50%; margin:20px 0px 20px -400px; }
 #sonar1 {position:relative; padding:80px 0px 0px 240px;}
-.sonar1_1 {position:absolute; width:143px; height:143px; background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/sonar/sonar_1_1.png); margin:195px 0px 0px 195px; opacity:0;}
-.sonar1_2 {position:absolute; width:180px; height:180px; background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/sonar/sonar_1_2.png); margin:176px 0px 0px 176px; opacity:0;}
-.sonar1_3 {position:absolute; width:234px; height:234px; background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/sonar/sonar_1_3.png); margin:149px 0px 0px 149px; opacity:0;}
-.sonar1_4 {position:absolute; width:311px; height:311px; background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/sonar/sonar_1_4.png); margin:111px 0px 0px 111px; opacity:0;}
-.sonar1_5 {position:absolute; width:409px; height:409px; background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/sonar/sonar_1_5.png); margin:62px 0px 0px 62px; opacity:0;}
-.sonar1_6 {position:absolute; width:532px; height:532px; background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/sonar/sonar_1_6.png); opacity:0;}
+.sonar1_1 {position:absolute; width:143px; height:143px; background:url(https://asset-28j.pages.dev/sonar_1_1.png); margin:195px 0px 0px 195px; opacity:0;}
+.sonar1_2 {position:absolute; width:180px; height:180px; background:url(https://asset-28j.pages.dev/sonar_1_2.png); margin:176px 0px 0px 176px; opacity:0;}
+.sonar1_3 {position:absolute; width:234px; height:234px; background:url(https://asset-28j.pages.dev/sonar_1_3.png); margin:149px 0px 0px 149px; opacity:0;}
+.sonar1_4 {position:absolute; width:311px; height:311px; background:url(https://asset-28j.pages.dev/sonar_1_4.png); margin:111px 0px 0px 111px; opacity:0;}
+.sonar1_5 {position:absolute; width:409px; height:409px; background:url(https://asset-28j.pages.dev/sonar_1_5.png); margin:62px 0px 0px 62px; opacity:0;}
+.sonar1_6 {position:absolute; width:532px; height:532px; background:url(https://asset-28j.pages.dev/sonar_1_6.png); opacity:0;}
 #sonar2 {position:relative; padding:180px 0px 0px 0px;}
-.sonar2_1 {position:absolute; width:123px; height:123px; background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/sonar/sonar_2_1.png); margin:169px 0px 0px 169px; opacity:0;}
-.sonar2_2 {position:absolute; width:156px; height:156px; background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/sonar/sonar_2_2.png); margin:152px 0px 0px 152px; opacity:0;}
-.sonar2_3 {position:absolute; width:202px; height:202px; background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/sonar/sonar_2_3.png); margin:129px 0px 0px 129px; opacity:0;}
-.sonar2_4 {position:absolute; width:268px; height:269px; background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/sonar/sonar_2_4.png); margin:97px 0px 0px 97px; opacity:0;}
-.sonar2_5 {position:absolute; width:353px; height:353px; background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/sonar/sonar_2_5.png); margin:54px 0px 0px 54px; opacity:0;}
-.sonar2_6 {position:absolute; width:460px; height:460px; background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/sonar/sonar_2_6.png); opacity:0;}
+.sonar2_1 {position:absolute; width:123px; height:123px; background:url(https://asset-28j.pages.dev/sonar_2_1.png); margin:169px 0px 0px 169px; opacity:0;}
+.sonar2_2 {position:absolute; width:156px; height:156px; background:url(https://asset-28j.pages.dev/sonar_2_2.png); margin:152px 0px 0px 152px; opacity:0;}
+.sonar2_3 {position:absolute; width:202px; height:202px; background:url(https://asset-28j.pages.dev/sonar_2_3.png); margin:129px 0px 0px 129px; opacity:0;}
+.sonar2_4 {position:absolute; width:268px; height:269px; background:url(https://asset-28j.pages.dev/sonar_2_4.png); margin:97px 0px 0px 97px; opacity:0;}
+.sonar2_5 {position:absolute; width:353px; height:353px; background:url(https://asset-28j.pages.dev/sonar_2_5.png); margin:54px 0px 0px 54px; opacity:0;}
+.sonar2_6 {position:absolute; width:460px; height:460px; background:url(https://asset-28j.pages.dev/sonar_2_6.png); opacity:0;}
 #sonar3 {position:relative; padding:0px 0px 0px 640px;}
-.sonar3_1 {position:absolute; width:105px; height:105px; background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/sonar/sonar_3_1.png); margin:144px 0px 0px 144px; opacity:0;}
-.sonar3_2 {position:absolute; width:133px; height:133px; background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/sonar/sonar_3_2.png); margin:130px 0px 0px 130px; opacity:0;}
-.sonar3_3 {position:absolute; width:172px; height:172px; background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/sonar/sonar_3_3.png); margin:110px 0px 0px 110px; opacity:0;}
-.sonar3_4 {position:absolute; width:229px; height:229px; background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/sonar/sonar_3_4.png); margin:82px 0px 0px 82px; opacity:0;}
-.sonar3_5 {position:absolute; width:301px; height:301px; background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/sonar/sonar_3_5.png); margin:46px 0px 0px 46px; opacity:0;}
-.sonar3_6 {position:absolute; width:392px; height:392px; background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/sonar/sonar_3_6.png); opacity:0;}
+.sonar3_1 {position:absolute; width:105px; height:105px; background:url(https://asset-28j.pages.dev/sonar_3_1.png); margin:144px 0px 0px 144px; opacity:0;}
+.sonar3_2 {position:absolute; width:133px; height:133px; background:url(https://asset-28j.pages.dev/sonar_3_2.png); margin:130px 0px 0px 130px; opacity:0;}
+.sonar3_3 {position:absolute; width:172px; height:172px; background:url(https://asset-28j.pages.dev/sonar_3_3.png); margin:110px 0px 0px 110px; opacity:0;}
+.sonar3_4 {position:absolute; width:229px; height:229px; background:url(/https://asset-28j.pages.dev/sonar_3_4.png); margin:82px 0px 0px 82px; opacity:0;}
+.sonar3_5 {position:absolute; width:301px; height:301px; background:url(https://asset-28j.pages.dev/sonar_3_5.png); margin:46px 0px 0px 46px; opacity:0;}
+.sonar3_6 {position:absolute; width:392px; height:392px; background:url(https://asset-28j.pages.dev/sonar_3_6.png); opacity:0;}
 #sonar4 {position:relative; padding:220px 0px 0px 320px;}
-.sonar4_1 {position:absolute; width:93px; height:93px; background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/sonar/sonar_4_1.png); margin:128px 0px 0px 128px; opacity:0;}
-.sonar4_2 {position:absolute; width:118px; height:118px; background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/sonar/sonar_4_2.png); margin:115px 0px 0px 115px; opacity:0;}
-.sonar4_3 {position:absolute; width:153px; height:153px; background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/sonar/sonar_4_3.png); margin:98px 0px 0px 98px; opacity:0;}
-.sonar4_4 {position:absolute; width:203px; height:203px; background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/sonar/sonar_4_4.png); margin:73px 0px 0px 73px; opacity:0;}
-.sonar4_5 {position:absolute; width:267px; height:267px; background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/sonar/sonar_4_5.png); margin:41px 0px 0px 41px; opacity:0;}
-.sonar4_6 {position:absolute; width:348px; height:348px; background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/sonar/sonar_4_6.png); opacity:0;}
+.sonar4_1 {position:absolute; width:93px; height:93px; background:url(https://asset-28j.pages.dev/sonar_4_1.png); margin:128px 0px 0px 128px; opacity:0;}
+.sonar4_2 {position:absolute; width:118px; height:118px; background:url(https://asset-28j.pages.dev/sonar_4_2.png); margin:115px 0px 0px 115px; opacity:0;}
+.sonar4_3 {position:absolute; width:153px; height:153px; background:url(https://asset-28j.pages.dev/sonar_4_3.png); margin:98px 0px 0px 98px; opacity:0;}
+.sonar4_4 {position:absolute; width:203px; height:203px; background:url(https://asset-28j.pages.dev/sonar_4_4.png); margin:73px 0px 0px 73px; opacity:0;}
+.sonar4_5 {position:absolute; width:267px; height:267px; background:url(https://asset-28j.pages.dev/sonar_4_5.png); margin:41px 0px 0px 41px; opacity:0;}
+.sonar4_6 {position:absolute; width:348px; height:348px; background:url(https://asset-28j.pages.dev/sonar_4_6.png); opacity:0;}
 
 .sonarText{
      position: absolute;
@@ -598,9 +598,9 @@ margin:0px auto;
 .sonarTextContent3 {position:absolute; background:#141414; padding:20px; color:#FFFFFF; margin:230px 0px 0px 70px; text-align:center; z-index:9000; display:none;}
 .sonarTextContent4 {position:absolute; background:#141414; padding:20px; color:#FFFFFF; margin:210px 0px 0px 40px; text-align:center; z-index:9000; display:none;}
 
-.submarine {position:absolute; width:400px; height:244px; background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/submarine.png); background-repeat: no-repeat; background-size: 100% 100%; margin:380px 0px 0px 280px; z-index:9000;}
-.treasureChest {position:absolute; width:284px; height:250px; background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/treasure_chest.png); /*margin:722px 0px 0px 600px;*/ margin:222px 0px 0px 800px; z-index:2000;}
-.football {position:absolute; width:100px; height:100px; background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/football.png); /*margin:780px 0px 0px 650px;*/ margin:280px 0px 0px 850px; z-index:10001;}
+.submarine {position:absolute; width:400px; height:244px; background:url(https://asset-28j.pages.dev/submarine.png); background-repeat: no-repeat; background-size: 100% 100%; margin:380px 0px 0px 280px; z-index:9000;}
+.treasureChest {position:absolute; width:284px; height:250px; background:url(https://asset-28j.pages.dev/treasure_chest.png); /*margin:722px 0px 0px 600px;*/ margin:222px 0px 0px 800px; z-index:2000;}
+.football {position:absolute; width:100px; height:100px; background:url(https://asset-28j.pages.dev/football.png); /*margin:780px 0px 0px 650px;*/ margin:280px 0px 0px 850px; z-index:10001;}
 
 section {
      position: relative;
@@ -648,7 +648,7 @@ section .sectionContent .sectionText {
 
 section.one {
 /*   background: #07a0ca; */
-/*   background-image: url('/web/20151001173444im_/http://www.iceviral.com/assets/images/background1_textured.jpg'); */
+/*   background-image: url('https://asset-28j.pages.dev/background1_textured.jpg'); */
 /*   border-top: #0b8cb1 solid 5px; */
      padding-top: 200px;
      height:4600px;
@@ -658,7 +658,7 @@ section.one {
 
 section.accord {
      background: #07a0ca;
-     background-image: url('/web/20151001173444im_/http://www.iceviral.com/assets/images/background1_textured.jpg');
+     background-image: url('https://asset-28j.pages.dev/background1_textured.jpg');
      height: 800px;
      
      
@@ -668,7 +668,7 @@ section.accord {
 
 section.accord.two {
      background: #207a9d;
-     background-image: url('/web/20151001173444im_/http://www.iceviral.com/assets/images/background2_textured.jpg');
+     background-image: url('https://asset-28j.pages.dev/background2_textured.jpg');
      height: 1200px;
      
      
@@ -680,7 +680,7 @@ section.accord.two {
 
 .accord.three {
      background: #175679;
-     background-image: url('/web/20151001173444im_/http://www.iceviral.com/assets/images/background3_textured.jpg');
+     background-image: url('https://asset-28j.pages.dev/background3_textured.jpg');
      height: 1200px;
      
      border-top: 3px #444 solid;
@@ -729,7 +729,7 @@ section .sectionOneNew .sectionText {
 
 
 .bubble_content  {
-     position: relative; width:300px; height: 300px; background: url('/web/20151001173444im_/http://www.iceviral.com/assets/images/circle_popup_300.png') #79cae3 center center no-repeat; margin-left:-104px; margin-top:-104px; border-radius: 150px; z-index:20001; 
+     position: relative; width:300px; height: 300px; background: url('https://asset-28j.pages.dev/circle_popup_300.png') #79cae3 center center no-repeat; margin-left:-104px; margin-top:-104px; border-radius: 150px; z-index:20001; 
 }
 
 .bubble_content.large  {
@@ -745,7 +745,7 @@ section .sectionOneNew .sectionText {
 }
 
 .bubble_spot {
-     position: absolute; background:url('/web/20151001173444im_/http://www.iceviral.com/assets/images/bubble_background.png') no-repeat center center; width:100px; height:100px; z-index:20000
+     position: absolute; background:url('https://asset-28j.pages.dev/bubble_background.png') no-repeat center center; width:100px; height:100px; z-index:20000
 }
 
 .bubble_content p {
@@ -762,7 +762,7 @@ padding: 0px 50px; text-align:center;font-size:16px; margin-top: -10px
 }
 
 .bubble_close {
-     position: absolute; right:10px; top:10px; background:url('/web/20151001173444im_/http://www.iceviral.com/assets/images/close_32.png') no-repeat center center; height: 32px; width:32px; border-radius: 15px; z-index:20002;cursor:pointer
+     position: absolute; right:10px; top:10px; background:url('https://asset-28j.pages.dev/close_32.png') no-repeat center center; height: 32px; width:32px; border-radius: 15px; z-index:20002;cursor:pointer
 }
 
 .bubble_icon{
@@ -856,20 +856,20 @@ padding: 60px 30px
 section.two {
      padding-top:200px;
      background: #207a9d;
-     background-image: url('/web/20151001173444im_/http://www.iceviral.com/assets/images/background2_textured.jpg');
+     background-image: url('https://asset-28j.pages.dev/background2_textured.jpg');
      height:2500px;
 }
 
 section.three {
      background: #175679;
-     background-image: url('/web/20151001173444im_/http://www.iceviral.com/assets/images/background3_textured.jpg');
+     background-image: url('https://asset-28j.pages.dev/background3_textured.jpg');
      height:3600px;
 }
 
 section.three .sectionText h2 {margin-top:150px;}
 
 section.four {
-     background:url('/web/20151001173444im_/http://www.iceviral.com/assets/images/background4.jpg');
+     background:url('https://asset-28j.pages.dev/background4.jpg');
      height: 3000px;
 }
 
@@ -878,7 +878,7 @@ section.four p {text-align:center;}
 
 section.five {
      padding-top: 0px !important;
-     background:url('/web/20151001173444im_/http://www.iceviral.com/assets/images/sand1.jpg');
+     background:url('https://asset-28j.pages.dev/sand1.jpg');
      height:620px;
 }
 
@@ -928,14 +928,14 @@ section.three h2 {color: #fff;}
 position:absolute;
 width:100%;
 height:67px;
-background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/sand_top.png);
+background:url(https://asset-28j.pages.dev/sand_top.png);
 }
 
 .section5TopCover {
 position:absolute;
 width:100%;
 height:67px;
-background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/sand_top_cover.png);
+background:url(https://asset-28j.pages.dev/sand_top_cover.png);
 z-index:2000;
 }
 .section5 h1 {font-family:'sansitaone'; font-size:3em; text-transform:uppercase; color:#141414;}
@@ -961,7 +961,7 @@ padding:0px 10px 0px 0px;
      position:absolute;
      width:300px;
      height:380px;
-     background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/shipwreck.png);
+     background:url(https://asset-28j.pages.dev/shipwreck.png);
      margin-top:-335px;
      opacity:0.5;
      z-index:1000;
@@ -971,7 +971,7 @@ padding:0px 10px 0px 0px;
      position:absolute;
      width:400px;
      height:334px;
-     background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/castle.png);
+     background:url(https://asset-28j.pages.dev/castle.png);
      margin:-270px 0px 0px 270px;
      z-index:3000;
 }
@@ -980,7 +980,7 @@ padding:0px 10px 0px 0px;
      position:absolute;
      width:471px;
      height:262px;
-     background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/fishgroup.png);
+     background:url(https://asset-28j.pages.dev/fishgroup.png);
      margin:-180px 0px 0px 380px;
      z-index:1003;
 }
@@ -989,19 +989,19 @@ padding:0px 10px 0px 0px;
      position:absolute;
      width:200px;
      height:76px;
-     background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/shark.png);
+     background:url(https://asset-28j.pages.dev/shark.png);
      margin:-140px 0px 0px 580px;
      opacity:0.5;   
 }
 
-.confetti {position:absolute; width:180px; height:115px; background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/confetti.png); margin:280px 0px 0px 810px; z-index:10001;}
+.confetti {position:absolute; width:180px; height:115px; background:url(https://asset-28j.pages.dev/confetti.png); margin:280px 0px 0px 810px; z-index:10001;}
 
 #work1URL, #work2URL, #work3URL, #work4URL, #work5URL, #work65URL, #work1CloseButton, #work2CloseButton, #work3CloseButton, #work4CloseButton, #work5CloseButton, #work6CloseButton {display:none;}
 
 .work {position:absolute; width:100px; height:100px; background:rgba(231,221,95,1.00); left: 50%; z-index:20000;}
-.pointingFish {position:absolute; width:100px; height:70px; background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/pointing_fish_small_2.png); left:50%; z-index:20000;display: none;
+.pointingFish {position:absolute; width:100px; height:70px; background:url(https://asset-28j.pages.dev/pointing_fish_small_2.png); left:50%; z-index:20000;display: none;
 }
-.pointingFishReverse {position:absolute; width:100px; height:70px; background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/pointing_fish_small_2.png); left:50%; z-index:20000;
+.pointingFishReverse {position:absolute; width:100px; height:70px; background:url(https://asset-28j.pages.dev/pointing_fish_small_2.png); left:50%; z-index:20000;
 -moz-transform: scaleX(-1);
         -o-transform: scaleX(-1);
         -webkit-transform: scaleX(-1);
@@ -1010,7 +1010,7 @@ padding:0px 10px 0px 0px;
         -ms-filter: "FlipH";
         display: none;
 }
-.pointingFishSmall {position:absolute; width:100px; height:70px; background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/pointing_fish_small_2.png); left:50%; margin:200px 0px 0px -220px; z-index:30000; display: none}
+.pointingFishSmall {position:absolute; width:100px; height:70px; background:url(https://asset-28j.pages.dev/pointing_fish_small_2.png); left:50%; margin:200px 0px 0px -220px; z-index:30000; display: none}
 
 #pointingFishWorldCup {margin:70px 0px 0px -70px;}
 #pointingFishMattCutts {margin:1900px 0px 0px -200px;}
@@ -1018,20 +1018,20 @@ padding:0px 10px 0px 0px;
 #pointingFishHorseRacing {margin:1880px 0px 0px -140px;}
 #pointingFishChoice {margin:1540px 0px 0px 140px;}
 
-.closeButton {position:absolute; width:44px; height:44px; background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/close_button.jpg); left:50%; margin:-893px 0px 0px 488px; z-index:20000;}
+.closeButton {position:absolute; width:44px; height:44px; background:url(https://asset-28j.pages.dev/close_button.jpg); left:50%; margin:-893px 0px 0px 488px; z-index:20000;}
 
 .iFrameStyle {position:absolute; width:1044px; height:768px; background:rgba(0,0,0,0.5); padding:10px; z-index:20000; left:50%; margin:-850px 0px 0px -512px;}
 
-#work1 {background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/football_world_cup.png); width:150px; height:263px; margin:0px 0px 0px -50px;}
-#work2 {background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/panda_bubble.png); width:200px; height:281px; margin: 950px 0px 0px -50px;}
-#work3 {background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/matt_cutts_spam.png) no-repeat; width:160px; height:233px; margin: 1850px 0px 0px -50px;}
-#work4 {background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/horses_ice.png); width:340px; height:261px; margin:2400px 0px 0px -50px;}
-#work5 {background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/choice_records.png); width:200px; height:297px; margin:1400px 0px 0px -50px;}
-#work6 {background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/crest.png) no-repeat; width:200px; height:297px; margin:1850px 0px 0px -50px;}
+#work1 {background:url(https://asset-28j.pages.dev/football_world_cup.png); width:150px; height:263px; margin:0px 0px 0px -50px;}
+#work2 {background:url(https://asset-28j.pages.dev/panda_bubble.png); width:200px; height:281px; margin: 950px 0px 0px -50px;}
+#work3 {background:url(https://asset-28j.pages.dev/matt_cutts_spam.png) no-repeat; width:160px; height:233px; margin: 1850px 0px 0px -50px;}
+#work4 {background:url(https://asset-28j.pages.dev/horses_ice.png); width:340px; height:261px; margin:2400px 0px 0px -50px;}
+#work5 {background:url(https://asset-28j.pages.dev/choice_records.png); width:200px; height:297px; margin:1400px 0px 0px -50px;}
+#work6 {background:url(https://asset-28j.pages.dev/crest.webp) no-repeat; width:200px; height:297px; margin:1850px 0px 0px -50px;}
 
 .ping_us.cutts .gps_ring { left: -6px; top: 96px; }
 
-.contentPromptTextContainer {position:absolute; background:url(/web/20151001173444im_/http://www.iceviral.com/assets/images/speech_bubble.png); width:200px; height:146px; left:50%; margin:40px 0px 0px -360px; z-index:20000;display: none}
+.contentPromptTextContainer {position:absolute; background:url(https://asset-28j.pages.dev/speech_bubble.png); width:200px; height:146px; left:50%; margin:40px 0px 0px -360px; z-index:20000;display: none}
 .contentPromptText {width:150px; font-family:'Lato'; font-size:0.9em; text-align:center; line-height:1.5em; margin:20px 0px 0px 20px;}
 
 .lightbox {display:none;}
